@@ -1,6 +1,4 @@
 package Basics;
-
-
 class Node
 {
     int data;
@@ -88,7 +86,7 @@ public class LinkedList
     public static void main(String[] args) 
     {
         LinkedList list = new LinkedList();
-        list.insertBegining(1); //1
+        list.insertBegining(1); // 1
         list.insertBegining(3); // 3  1
         list.insertBegining(5); // 5  3  1
         list.insertEnd(7);      // 5  3  1  7
