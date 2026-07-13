@@ -13,9 +13,6 @@ Key Idea:
         2)Shrinking phase if the condition is met and next subarray is required using left pointer
 */
 
-
-package Arrays.SlidingWindow;
-
 public class MinimumSizeSubarraySum 
 {
     public static int minSubarray(int[] array,int target)

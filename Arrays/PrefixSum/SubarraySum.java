@@ -1,4 +1,4 @@
-package Arrays.PrefixSum;
+package arrays.PrefixSum;
 /* 
 Problem: Subarray Sum Equals K
 
